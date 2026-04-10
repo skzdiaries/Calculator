@@ -6,7 +6,7 @@
 ### Built With .✦ ݁˖
 This project was built with C# on Visual Studios using the Windows Forms App (.NET Framework) 
 ### Installation .✦ ݁˖
-**IMPORTANT**: To get access to this project, you must have an application that can support it and must be on laptop/computer. A common one to use is Visual Studios. Moving on, if you already have the app, you must download the link connected to my google drive and it should pop up.
+**IMPORTANT**: To get access to this project, you must first download it from the Google Drive. Then you must install Visual Studios or any app that supports .slnx. Once installed, click on the file and it should prompt to open it up with Visual Studios. 
 ### Credits .✦ ݁˖
 Big thanks to all the art I used which was found on Pinterest!!
 Specifically, the star uploaded by **Megan Booth** and the background by **piyopiyo**!
