@@ -6,7 +6,7 @@
 ### Built With .✦ ݁˖
 This project was built with C# on Visual Studios using the Windows Forms App (.NET Framework) 
 ### Installation/Demo .✦ ݁˖
-**IMPORTANT**: To get access to this project, you must first download it from the Google Drive. Then you must install Visual Studios or any app that supports .slnx. Once installed, click on the file and it should prompt to open it up with Visual Studios. 
+**IMPORTANT**: To get access to this project, you must install Visual Studios. Once installed, download the .NET desktop development package. Once loaded in, it should prompt you with ways to start a project. Click the choice asking you to 'Clone a repository'. Then clone this repository and load into it. Go to the solution explorer (Top right) and click 'Calculator.slnx'. After find Form1.cs also on the Solution Explorer and click on that. Then you should be able to run the project with clicking the green arrow!
 ### Credits .✦ ݁˖
 Big thanks to all the art I used which was found on Pinterest!!
 Specifically, the star uploaded by **Megan Booth** and the background by **piyopiyo**!
