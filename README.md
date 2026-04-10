@@ -5,7 +5,7 @@
 'Calculator' is a simple, green-themed calculator used to solve math problems!
 ### Built With .✦ ݁˖
 This project was built with C# on Visual Studios using the Windows Forms App (.NET Framework) 
-### Installation .✦ ݁˖
+### Installation/Demo .✦ ݁˖
 **IMPORTANT**: To get access to this project, you must first download it from the Google Drive. Then you must install Visual Studios or any app that supports .slnx. Once installed, click on the file and it should prompt to open it up with Visual Studios. 
 ### Credits .✦ ݁˖
 Big thanks to all the art I used which was found on Pinterest!!
